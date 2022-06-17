@@ -12,4 +12,4 @@ download dataset and keep all *.csv files in dataset folder
 create a folder data in working directory inorder to store preprocessed data
 
 ## Requirements
-pip install "dask[complete]" dask_ml graphviz
+pip install "dask[complete]" dask_ml
