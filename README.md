@@ -14,7 +14,9 @@ create a folder data in working directory inorder to store preprocessed data
 ## Requirements
 pip install "dask[complete]" dask_ml
 
-pip install scikeras
+pip install sklearn
+
+pip install tensorflow
 
 ## How to Run Colab Files
 upload pre-processed data to drive and run the colab files
