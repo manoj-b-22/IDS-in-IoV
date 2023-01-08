@@ -23,5 +23,5 @@ upload pre-processed data to drive and run the colab files
 
 ## Understanding Code
 In confusion matrix 
-    - inter files 0-Benign 1-ddos
-    - intra files 0-Dos 1-Fuzzy 2-Normal 3-Spoof
+  * inter files 0-Benign 1-ddos 
+  * intra files 0-Dos 1-Fuzzy 2-Normal 3-Spoof
