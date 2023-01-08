@@ -20,3 +20,10 @@ pip install tensorflow
 
 ## How to Run Colab Files
 upload pre-processed data to drive and run the colab files
+
+## Understanding Code
+In confusion matrix 
+
+for inter files 0-Benign 1-ddos
+
+for intra files 0-Dos 1-Fuzzy 2-Normal 3-Spoof
